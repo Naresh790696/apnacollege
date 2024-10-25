@@ -1,4 +1,2 @@
 # apnacollege
-gitrepositaoryy
-<br/>
-Author:naresh
+gitrepositaoryy Author:naresh
